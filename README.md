@@ -1,6 +1,6 @@
 # Zorko / Kyworn
 
-Independent ML researcher. Building efficient LLMs for edge deployment.
+Independent ML research. Building efficient LLMs for edge deployment.
 
 ## Projects
 
