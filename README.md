@@ -1,6 +1,6 @@
 # Zorko / Kyworn
 
-Independent ML research. Building efficient LLMs for edge deployment.
+Just a fan of hardware, proxmox, sysadmin and AI.
 
 ## Projects
 
